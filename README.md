@@ -4,7 +4,7 @@ All students must push code here.
 
 Programs not check will be marked as :x: and those checked will be marked as :white_check_mark:.
 
-Only @Neetu77 may update the **`Checked`** column.
+Only [@Neetu77](https://github.com/Neetu77) may update the **`Checked`** column.
 
 S.No|Program|Submitted by|Checked
 ---|---|---|---
